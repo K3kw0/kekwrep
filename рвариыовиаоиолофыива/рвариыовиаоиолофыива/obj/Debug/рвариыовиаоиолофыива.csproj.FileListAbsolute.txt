@@ -1,0 +1,7 @@
+C:\Users\FDR\source\repos\рвариыовиаоиолофыива\рвариыовиаоиолофыива\bin\Debug\рвариыовиаоиолофыива.exe.config
+C:\Users\FDR\source\repos\рвариыовиаоиолофыива\рвариыовиаоиолофыива\bin\Debug\рвариыовиаоиолофыива.exe
+C:\Users\FDR\source\repos\рвариыовиаоиолофыива\рвариыовиаоиолофыива\bin\Debug\рвариыовиаоиолофыива.pdb
+C:\Users\FDR\source\repos\рвариыовиаоиолофыива\рвариыовиаоиолофыива\obj\Debug\рвариыовиаоиолофыива.csprojAssemblyReference.cache
+C:\Users\FDR\source\repos\рвариыовиаоиолофыива\рвариыовиаоиолофыива\obj\Debug\рвариыовиаоиолофыива.csproj.CoreCompileInputs.cache
+C:\Users\FDR\source\repos\рвариыовиаоиолофыива\рвариыовиаоиолофыива\obj\Debug\рвариыовиаоиолофыива.exe
+C:\Users\FDR\source\repos\рвариыовиаоиолофыива\рвариыовиаоиолофыива\obj\Debug\рвариыовиаоиолофыива.pdb
